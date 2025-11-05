@@ -1,5 +1,7 @@
 # Unified Structure-guided Multi-modal Neural Network (USMNet)
-![Uploading {2087EE82-A39E-49BF-AAF1-49CA4807E1E1}.png…]()
+<img width="1582" height="914" alt="图片1" src="https://github.com/user-attachments/assets/2f551b03-59b7-4158-987a-2bfd05cf8d81" />
+
+
 
 A general structure-guided model to predict ionic conductivity of lithium-containing inorganic compounds. 
 
