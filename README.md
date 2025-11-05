@@ -3,13 +3,14 @@
 <img width="633" height="366" alt="图片1" src="https://github.com/user-attachments/assets/2f551b03-59b7-4158-987a-2bfd05cf8d81" />
 </p>
 
-
-
 A general structure-guided model to predict ionic conductivity of lithium-containing inorganic compounds. 
 
-You can generate new lithium inorganic materials and predict their properties using a simplified version of StruMM-Net at `http://121.4.77.184/`
+You can generate new lithium inorganic materials and predict their properties using a simplified version of USMNet at `http://121.4.77.184/`
 
-To use the full version of StruMM-Net, follow the steps below：
+# About USMNet
+USMNet is developed for solid-state electrolytes to predict ionic conductivity. USMNet aims to preserve model simplicity while maintaining its performance to cope with scarce data.
+Dimensionality alignment, cross-modal fusion, and the prediction head are sequentially performed. Leveraging self-attention mechanism, the transformer module employs multi-head attention to compute cross-modal correlations across subspaces and extract implicit interactive information, eventually achieving weighted fusion and precise alignment of cross-modal data.
+To use the full version of USMNet, follow the steps below：
 
 # Installation
 ```python
