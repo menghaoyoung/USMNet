@@ -1,5 +1,7 @@
-# Unified Structure-guided Multi-modal Neural Network (USMNet)
+# Unified Structure-guided Multi-modal<br>Neural Network (USMNet)
+<p align="center">
 <img width="633" height="366" alt="图片1" src="https://github.com/user-attachments/assets/2f551b03-59b7-4158-987a-2bfd05cf8d81" />
+</p>
 
 
 
