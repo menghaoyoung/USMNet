@@ -1,5 +1,7 @@
-# USMNet
-A general structure-based model to predict ionic conductivity of lithium-containing inorganic compounds. 
+# Unified Structure-guided Multi-modal Neural Network (USMNet)
+![Uploading {2087EE82-A39E-49BF-AAF1-49CA4807E1E1}.png…]()
+
+A general structure-guided model to predict ionic conductivity of lithium-containing inorganic compounds. 
 
 You can generate new lithium inorganic materials and predict their properties using a simplified version of StruMM-Net at `http://121.4.77.184/`
 
