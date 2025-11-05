@@ -1,4 +1,4 @@
-# StruMM-Net
+# USMNet
 A general structure-based model to predict ionic conductivity of lithium-containing inorganic compounds. 
 
 You can generate new lithium inorganic materials and predict their properties using a simplified version of StruMM-Net at `http://121.4.77.184/`
