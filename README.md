@@ -10,7 +10,7 @@ You can generate new lithium inorganic materials and predict their properties us
 # About USMNet
 USMNet is developed for solid-state electrolytes to predict ionic conductivity. USMNet aims to preserve model simplicity while maintaining its performance to cope with scarce data.
 
-Dimensionality alignment, cross-modal fusion, and the prediction head are sequentially performed. Leveraging self-attention mechanism, the transformer module employs multi-head attention to compute cross-modal correlations across subspaces and extract implicit interactive information, eventually achieving weighted fusion and precise alignment of cross-modal data.
+Dimensionality alignment, cross-modal fusion, and the prediction head are sequentially performed. Self-attention mechanism is employed to extract implicit interactive information, achieving weighted fusion and precise alignment of cross-modal data.
 
 To use the full version of USMNet, follow the steps below：
 
