@@ -30,7 +30,7 @@ def load_scalers():
 
 
 def predict(pretrained_model, flag):
-    pretrained_model_dir = os.path.join("pretrained_models", "SINNet_" + pretrained_model)
+    pretrained_model_dir = os.path.join("pretrained_models", "USMNet_" + pretrained_model)
     scaler_scalar, sine_scaler, acsf_scaler, sine_encoder, acsf_encoder = load_scalers()
     folder_path = "extracted_features/"
     rough_est_path = os.path.join("predict_by_formula", pretrained_model+".csv")
@@ -271,3 +271,4 @@ if __name__ == '__main__':
     fine_tuning = False
 
     predict(model, fine_tuning)
+
